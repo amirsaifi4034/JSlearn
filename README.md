@@ -1,2 +1,0 @@
-# JSlearn
-for learning js
